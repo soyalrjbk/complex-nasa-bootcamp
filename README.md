@@ -1,4 +1,4 @@
-# NASA Facility Directory
+# 🚀 NASA Facility Directory
 
 This app lists NASA centers and facilities across the U.S. and shows the current temperature at each one. It gets the facility info from NASA's public dataset, then uses each facility's coordinates to get the weather from the Open-Meteo API.
 
